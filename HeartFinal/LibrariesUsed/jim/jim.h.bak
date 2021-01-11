@@ -1,0 +1,2 @@
+#define sp()  Serial.print();
+#define spl() Serial.println();
